@@ -1,0 +1,76 @@
+ body {
+        background-color: white;
+        background-image:url("../Pictures/background1.jpg");
+        color: white;
+        
+ }
+ 
+  div {
+        font-family: 'Baloo Bhaina', cursive;
+        background-image:url("../Pictures/3.png") !important;
+        width:800px;
+        height:555px;
+        position: relative;
+        margin:0 auto;
+        text-align: center;
+        top: 120px;
+        left: 18px;
+       
+    }
+    
+  .hello{
+      color: Black !important;
+      text-decoration: underline !important;
+      font-size: 2.9em !important;
+      
+  }
+  
+  .hello1{
+      color: Black !important;
+      text-decoration: underline !important;
+      font-size: 2.9em !important;
+  }
+  
+  input{
+        top:91px !important;
+        left:810px !important;
+        position:absolute;
+        font-size:1.3em;
+        background-color:transparent;
+        border:5px solid black;
+        outline:black;
+        font-weight:bold;
+        color:pink;
+        cursor:pointer;
+    }
+    
+  .star{
+   top:110px !important;
+   left:170px !important;
+   position:absolute !important;
+   
+  }
+  
+  #tt{
+   font-family: 'Baloo Bhaina', cursive;
+   text-align:center;
+   font-size:3.5em;
+   font-weight:bold;
+   padding: 0px;
+   margin:0px;
+   color:Black;
+   
+  }
+  
+  #t2{
+   font-family: 'Baloo Bhaina', cursive;
+   text-align:center;
+   padding:0px;
+   margin:0px;
+   
+  }
+  
+  
+  
+  
+  
